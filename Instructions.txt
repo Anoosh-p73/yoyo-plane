@@ -1,0 +1,4 @@
+1. Hold down the space bar and release when the yoyo is spinning fast enough to launch it
+2. The longer you hold down the space bar the farther it goes
+3. Use arrow key (left and right) to move the plane
+4. Game ends when you have zero lives left
